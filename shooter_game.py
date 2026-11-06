@@ -1,6 +1,6 @@
 # ¡Crea tu propio juego de disparos!
 from pygame import *
-from random import randint
+from random import randint, randrange
 
 init()
 
